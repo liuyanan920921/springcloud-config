@@ -1,0 +1,2 @@
+config:
+  infor :master branch, springcloud-config/config-tet.yml version =1
